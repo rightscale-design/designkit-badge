@@ -1,6 +1,6 @@
 {
   "name": "designkit-badge",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Sass module for css badges.",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/rightscale-design/designkit-badge#readme",
   "devDependencies": {
     "bourbon": "^4.2.6",
-    "designkit-colors": "0.0.6",
+    "designkit-colors": "0.0.8",
     "http-server": "^0.8.5",
     "node-sass": "^3.4.2",
     "nodemon": "^1.8.1"
