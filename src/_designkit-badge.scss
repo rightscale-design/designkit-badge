@@ -14,15 +14,9 @@
   background-color: $heading;
   border-radius: 10px;
 
-  // Empty badges collapse automatically (not available in IE8)
+  // Empty badges collapse automatically
   &:empty {
     display: none;
-  }
-
-  // Quick fix for badges in buttons
-  .btn & {
-    position: relative;
-    top: -1px;
   }
 }
 
